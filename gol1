@@ -1,0 +1,69 @@
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="background-color:#000000;">
+  <tr>
+    <td align="center" bgcolor="#000000" style="background-color:#000000; padding:0;">
+
+      <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="background-color:#000000; max-width:600px; width:100%;">
+
+        <!-- ESPAÇO PARA LOGO (editor amigável RD Station) -->
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:24px 20px 8px 20px;">
+          </td>
+        </tr>
+
+        <!-- SELO COPA -->
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:0 20px 16px 20px;">
+            <table cellpadding="0" cellspacing="0" border="0" align="center">
+              <tr>
+                <td align="center" bgcolor="#f1c40f" style="background-color:#f1c40f; border-radius:20px; padding:6px 18px;">
+                  <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; letter-spacing:2px; color:#000000; text-transform:uppercase; text-align:center;">Edição Especial &middot; Copa 2026</span>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- HEADLINE -->
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:0 24px 8px 24px; text-align:center;">
+            <span style="font-family:Arial, Helvetica, sans-serif; font-size:26px; line-height:32px; font-weight:bold; color:#ffffff; text-align:center;">Tem coisa que nem precisa ser deste planeta pra unir o Brasil inteiro.</span>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:0 24px 24px 24px; text-align:center;">
+            <span style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:23px; color:#cccccc; text-align:center;">E a gente trouxe a prova disso pra dentro da lata.</span>
+          </td>
+        </tr>
+
+        <!-- DIVISOR -->
+        <tr>
+          <td bgcolor="#000000" style="background-color:#000000; padding:0 24px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr><td height="1" bgcolor="#1a7a3c" style="background-color:#1a7a3c; font-size:1px; line-height:1px;">&nbsp;</td></tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- HISTÓRIA / ABERTURA -->
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:28px 24px 0 24px; text-align:center;">
+            <span style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#e6e6e6; text-align:center;">
+              Em 2014 a Gol de Bicicleta nasceu de um projeto que uniu cervejarias de cinco continentes. Foi parar em mais de 40 países e virou lenda entre quem bebe craft de verdade.
+            </span>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" bgcolor="#000000" style="background-color:#000000; padding:16px 24px 28px 24px; text-align:center;">
+            <span style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#ffffff; font-weight:bold; text-align:center;">
+              Agora, com a Copa batendo na porta, ela volta. E dessa vez, veio de outro mundo.
+            </span>
+          </td>
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
