@@ -1,0 +1,98 @@
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000;">
+  <tr>
+    <td align="center" style="padding:0 20px;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;background-color:#000000;font-family:Arial, Helvetica, sans-serif;">
+
+        <!-- Chamada -->
+        <tr>
+          <td align="center" style="padding:30px 20px 10px 20px;">
+            <p style="margin:0;color:#ff4200;font-size:14px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;">Trooper Beers x Iron Maiden</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" style="padding:0 20px 20px 20px;">
+            <h1 style="margin:0;color:#ffffff;font-size:28px;line-height:34px;">COMBO GOL DO EDDIE!</h1>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" style="padding:0 30px 25px 30px;">
+            <p style="margin:0;color:#ffffff;font-size:16px;line-height:24px;">
+              Fã do Iron Maiden assiste aos jogos da <span style="color:#ff4200;font-weight:bold;">Copa</span> com a companhia de boas Trooper Beers! Um combo especial com 3 rótulos diferentes pra você saborear direto no Copo Caldereta Aces High que vai junto.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Divisor -->
+        <tr>
+          <td style="padding:0 20px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr><td style="border-top:1px solid #ff4200;font-size:0;line-height:0;">&nbsp;</td></tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Conteúdo do combo -->
+        <tr>
+          <td align="center" style="padding:25px 20px 10px 20px;">
+            <p style="margin:0;color:#ff4200;font-size:13px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;">Neste combo você leva</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td style="padding:15px 30px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="padding:14px 0;border-bottom:1px solid #333333;">
+                  <p style="margin:0 0 4px 0;color:#ffffff;font-size:17px;font-weight:bold;">3x Trooper Brasil IPA <span style="color:#ff4200;font-weight:normal;">— lata 473ml</span></p>
+                  <p style="margin:0;color:#cccccc;font-size:14px;line-height:20px;">American IPA 5% com nibs de cacau da Bahia e lúpulos tropicais: aroma de chocolate branco, manga e pão.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:14px 0;border-bottom:1px solid #333333;">
+                  <p style="margin:0 0 4px 0;color:#ffffff;font-size:17px;font-weight:bold;">3x Trooper Aces High <span style="color:#ff4200;font-weight:normal;">— lata 470ml</span></p>
+                  <p style="margin:0;color:#cccccc;font-size:14px;line-height:20px;">Hoppy Ale 4,6%, dourada e leve, com lúpulos Citra e Mosaic: notas cítricas e amargor baixo e equilibrado.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:14px 0;border-bottom:1px solid #333333;">
+                  <p style="margin:0 0 4px 0;color:#ffffff;font-size:17px;font-weight:bold;">3x Run For Your Lives <span style="color:#ff4200;font-weight:normal;">— lata 473ml</span></p>
+                  <p style="margin:0;color:#cccccc;font-size:14px;line-height:20px;">Brasil Lager 4,9%, maltes Pilsen e Viena e lúpulo catarinense Estrada da Ilha: notas florais e cítricas.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:14px 0;">
+                  <p style="margin:0;color:#ff4200;font-size:17px;font-weight:bold;">GRÁTIS: Copo Caldereta Aces High 350ml</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Preço -->
+        <tr>
+          <td align="center" style="padding:25px 20px 5px 20px;">
+            <p style="margin:0;color:#888888;font-size:15px;text-decoration:line-through;">De R$ 182,00</p>
+            <p style="margin:6px 0 0 0;color:#ffffff;font-size:32px;font-weight:bold;">Por <span style="color:#ff4200;">R$ 162,00</span></p>
+            <p style="margin:6px 0 0 0;color:#cccccc;font-size:14px;">ou 3x de R$ 54,00</p>
+          </td>
+        </tr>
+
+        <!-- CTA -->
+        <tr>
+          <td align="center" style="padding:25px 20px 35px 20px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" style="background-color:#ff4200;border-radius:6px;">
+                  <a href="https://loja.bodebrown.com.br/combo-gol-do-eddie/" target="_blank" style="display:inline-block;padding:16px 40px;color:#000000;font-size:16px;font-weight:bold;text-decoration:none;text-transform:uppercase;letter-spacing:0.5px;">Quero meu combo</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
