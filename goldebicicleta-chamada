@@ -1,0 +1,114 @@
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000;">
+  <tr>
+    <td align="center" style="padding:0 20px;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;background-color:#000000;font-family:Arial, Helvetica, sans-serif;">
+
+        <!-- Faixa verde/amarela -->
+        <tr>
+          <td style="padding:0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="50%" style="background-color:#009c3b;font-size:0;line-height:4px;">&nbsp;</td>
+                <td width="50%" style="background-color:#ffdf00;font-size:0;line-height:4px;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Chamada -->
+        <tr>
+          <td align="center" style="padding:35px 20px 10px 20px;">
+            <p style="margin:0;color:#ffdf00;font-size:14px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;">Tem jogo do Brasil neste domingo</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" style="padding:0 20px 6px 20px;">
+            <h1 style="margin:0;color:#ffffff;font-size:28px;line-height:34px;">CONHEÇA A <span style="color:#009c3b;">GOL</span> <span style="color:#ffdf00;">DE BICICLETA</span></h1>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" style="padding:0 20px 20px 20px;">
+            <p style="margin:0;color:#ffffff;font-size:14px;letter-spacing:0.5px;text-transform:uppercase;">Belgian Strong Golden Ale · Edição Copa 2026</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" style="padding:0 30px 25px 30px;">
+            <p style="margin:0;color:#ffffff;font-size:16px;line-height:24px;">
+              Enquanto a Seleção entra em campo, entra em campo também o nosso mais novo lançamento. Uma jogada rara: efervescente, elegante, com notas de pera, laranja e maçã — perfeita pra abrir junto com a partida deste <strong style="color:#ffdf00;">domingo</strong>.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Divisor -->
+        <tr>
+          <td style="padding:0 20px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="50%" style="border-top:2px solid #009c3b;font-size:0;line-height:0;">&nbsp;</td>
+                <td width="50%" style="border-top:2px solid #ffdf00;font-size:0;line-height:0;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Ficha rápida -->
+        <tr>
+          <td style="padding:25px 30px 5px 30px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" width="33%" style="padding:8px 4px;">
+                  <p style="margin:0;color:#009c3b;font-size:20px;font-weight:bold;">8,0%</p>
+                  <p style="margin:2px 0 0 0;color:#cccccc;font-size:12px;text-transform:uppercase;">Teor alcoólico</p>
+                </td>
+                <td align="center" width="33%" style="padding:8px 4px;border-left:1px solid #333333;border-right:1px solid #333333;">
+                  <p style="margin:0;color:#ffdf00;font-size:20px;font-weight:bold;">470ml</p>
+                  <p style="margin:2px 0 0 0;color:#cccccc;font-size:12px;text-transform:uppercase;">Lata</p>
+                </td>
+                <td align="center" width="33%" style="padding:8px 4px;">
+                  <p style="margin:0;color:#ffffff;font-size:20px;font-weight:bold;">Ouro</p>
+                  <p style="margin:2px 0 0 0;color:#cccccc;font-size:12px;text-transform:uppercase;">Cor</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Disponibilidade -->
+        <tr>
+          <td align="center" style="padding:20px 20px 5px 20px;">
+            <p style="margin:0;color:#ffffff;font-size:18px;font-weight:bold;">Disponível no site ou na <span style="color:#ffdf00;">loja da fábrica</span></p>
+          </td>
+        </tr>
+
+        <!-- CTA -->
+        <tr>
+          <td align="center" style="padding:20px 20px 35px 20px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" style="background-color:#ffdf00;border-radius:6px;border:2px solid #009c3b;">
+                  <a href="https://loja.bodebrown.com.br/gol-de-bicicleta-belgian-strong-golden-ale/" target="_blank" style="display:inline-block;padding:16px 40px;color:#000000;font-size:16px;font-weight:bold;text-decoration:none;text-transform:uppercase;letter-spacing:0.5px;">Quero a minha</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Faixa verde/amarela final -->
+        <tr>
+          <td style="padding:0;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="50%" style="background-color:#009c3b;font-size:0;line-height:4px;">&nbsp;</td>
+                <td width="50%" style="background-color:#ffdf00;font-size:0;line-height:4px;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
