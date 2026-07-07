@@ -1,0 +1,90 @@
+<!--
+BLOCO HTML - RD Station (colar em bloco "HTML personalizado")
+Imagens de topo/rodape: adicionar manualmente pelo editor do RD, como combinado.
+Cor de destaque: vermelho Iron Maiden (#E2231A).
+Todos os caracteres acentuados abaixo estao em entidades HTML (&atilde; etc) para blindar
+contra problemas de encoding no editor do RD (evita o "fÃ£s de lÃºpulo").
+-->
+<meta charset="UTF-8">
+<style>
+  @media only screen and (max-width: 600px) {
+    .rd-wrap { width: 100% !important; }
+    .rd-pad { padding-left: 20px !important; padding-right: 20px !important; }
+    .rd-headline { font-size: 24px !important; line-height: 30px !important; }
+  }
+
+  /* Animacao leve no CTA - funciona em Apple Mail, iOS Mail, Gmail app e Outlook.com novo.
+     Em clientes sem suporte (Outlook desktop, Yahoo, Windows Mail), o botao cai para o estado
+     estatico - sem quebra de layout. */
+  @keyframes rdPulse {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  .rd-pulse {
+    display: inline-block;
+    animation: rdPulse 1.3s ease-in-out infinite;
+    -webkit-animation: rdPulse 1.3s ease-in-out infinite;
+  }
+</style>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#141414;">
+  <tr>
+    <td align="center">
+      <table role="presentation" class="rd-wrap" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px;">
+
+        <!-- Headline -->
+        <tr>
+          <td class="rd-pad" align="center" style="padding:40px 40px 16px 40px; font-family:Arial, Helvetica, sans-serif; text-align:center;">
+            <h1 class="rd-headline" style="margin:0; font-family:Arial, Helvetica, sans-serif; font-size:28px; line-height:34px; font-weight:800; color:#E2231A; text-transform:uppercase; letter-spacing:0.5px; text-align:center;">
+              O Dia Mundial do Chocolate veio pra tirar a culpa
+            </h1>
+          </td>
+        </tr>
+
+        <!-- Paragrafo 1 -->
+        <tr>
+          <td class="rd-pad" align="center" style="padding:0 40px 20px 40px; font-family:Arial, Helvetica, sans-serif; font-size:17px; line-height:26px; color:#F2F2F2; text-align:center;">
+            Sem sentir vergonha de comer uma barra inteira de chocolate, e sem culpa de tomar um box de Trooper Brasil IPA hoje!
+          </td>
+        </tr>
+
+        <!-- Paragrafo 2 -->
+        <tr>
+          <td class="rd-pad" align="center" style="padding:0 40px 28px 40px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:25px; color:#C9C9C9; text-align:center;">
+            A Trooper Brasil IPA veio para trazer a mesma obsess&atilde;o choc&oacute;latra aos f&atilde;s de l&uacute;pulo! Bruce Dickinson criou junto com a Bodebrown uma IPA brasileira de verdade, com cacau de Ilh&eacute;us direto no dry-hopping, ao lado de Sorachi, Ace, Amarillo e Sabro. Chocolate branco e manga no aroma, malte suave sustentando tudo, amargor baixo na medida certa.
+          </td>
+        </tr>
+
+        <!-- CTA -->
+        <tr>
+          <td class="rd-pad" align="center" style="padding:0 40px 40px 40px; font-family:Arial, Helvetica, sans-serif;">
+            <p style="margin:0 0 22px 0; font-size:18px; line-height:26px; color:#F2F2F2; font-weight:700; text-align:center;">
+              Hoje &eacute; permitido, ent&atilde;o acesse o site e garanta o seu Box Trooper.
+            </p>
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://loja.bodebrown.com.br/combo-box-com-4-trooper-brasil-ipa-iron-maiden/" style="height:52px;v-text-anchor:middle;width:280px;" arcsize="8%" fillcolor="#E2231A" stroke="f">
+            <center style="color:#FFFFFF;font-family:Arial,sans-serif;font-size:16px;font-weight:bold;">GARANTIR MEU BOX TROOPER</center>
+            </v:roundrect>
+            <![endif]-->
+            <!--[if !mso]><!-- -->
+            <a href="https://loja.bodebrown.com.br/combo-box-com-4-trooper-brasil-ipa-iron-maiden/"
+               class="rd-pulse"
+               style="background-color:#E2231A; color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:800; text-decoration:none; text-transform:uppercase; letter-spacing:0.5px; padding:16px 36px; border-radius:4px; display:inline-block;">
+              Garantir meu Box Trooper
+            </a>
+            <!--<![endif]-->
+          </td>
+        </tr>
+
+        <!-- Disclaimer legal -->
+        <tr>
+          <td class="rd-pad" align="center" style="padding:0 40px 36px 40px; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#7A7A7A; text-align:center;">
+            Aprecie com modera&ccedil;&atilde;o. Venda proibida para menores de 18 anos. Se beber, n&atilde;o dirija.
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
