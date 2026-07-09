@@ -1,0 +1,134 @@
+<!-- BLOCO BEER TRAIN SANTA CATARINA - RD STATION -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000; margin:0; padding:0;">
+  <tr>
+    <td align="center" style="padding:0;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000; max-width:600px; width:100%;">
+
+        <!-- [ESPAÇO PARA IMAGEM MANUAL NO RD] -->
+
+        <!-- TAG URGÊNCIA -->
+        <tr>
+          <td align="center" style="padding:30px 24px 10px 24px;">
+            <p style="margin:0; font-family:Arial, Helvetica, sans-serif; font-size:13px; letter-spacing:3px; text-transform:uppercase; color:#FF4200; font-weight:bold; text-align:center;">
+              5º Vagão aberto
+            </p>
+          </td>
+        </tr>
+
+        <!-- TÍTULO -->
+        <tr>
+          <td align="center" style="padding:0 24px 20px 24px;">
+            <h1 style="margin:0; font-family:Arial, Helvetica, sans-serif; font-size:30px; line-height:36px; color:#FFFFFF; font-weight:bold; text-align:center;">
+              BEER TRAIN chega em <span style="color:#FF4200;">Santa Catarina</span>
+            </h1>
+          </td>
+        </tr>
+
+        <!-- INTRO -->
+        <tr>
+          <td align="center" style="padding:0 24px 20px 24px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:24px; color:#FFFFFF; text-align:center;">
+            Depois de 78 edições no Paraná e 5 em São Paulo, a Bodebrown embarca numa Maria Fumaça de verdade — vapor, fumaça e apito — pra desbravar a Serra do Mar Catarinense. <strong style="color:#FF4200;">De Rio Negrinho até Corupá.</strong> Vamos deixar a serra lupulada!
+          </td>
+        </tr>
+
+        <!-- AVISO DE URGÊNCIA -->
+        <tr>
+          <td align="center" style="padding:0 24px 10px 24px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #FF4200; border-radius:4px;">
+              <tr>
+                <td style="padding:14px 20px; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#FFFFFF; text-align:center;">
+                  Acabamos de abrir as vagas do <strong style="color:#FF4200;">5º vagão</strong>. Os outros quatro já estão enchendo — garanta o seu antes que a composição feche.
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- DIVISOR -->
+        <tr>
+          <td style="padding:20px 24px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="border-top:1px solid #FF4200; font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- DESTAQUES / INFOS RÁPIDAS -->
+        <tr>
+          <td align="center" style="padding:0 24px 10px 24px; font-family:Arial, Helvetica, sans-serif;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#128646;</span>&nbsp; Locomotiva a vapor americana de 1945, da ABPF
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#127749;</span>&nbsp; 60km de Serra do Mar Catarinense, 5 túneis
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#127866;</span>&nbsp; 5 cervejas Bodebrown à vontade até secar o barril
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#127869;</span>&nbsp; Almoço da comunidade + banda ao vivo em Rio Natal
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#9749;</span>&nbsp; Café Colonial no retorno
+                </td>
+              </tr>
+              <tr>
+                <td align="center" style="padding:8px 0; color:#FFFFFF; font-size:15px; line-height:22px; text-align:center;">
+                  <span style="color:#FF4200; font-weight:bold;">&#127911;</span>&nbsp; Rock no talo. Muito Iron Maiden.
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- DIVISOR -->
+        <tr>
+          <td style="padding:10px 24px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="border-top:1px solid #333333; font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- CTA -->
+        <tr>
+          <td align="center" style="padding:24px 24px 10px 24px;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" style="background-color:#FF4200; border-radius:4px;">
+                  <a href="https://loja.bodebrown.com.br/beertrainsc01-mariafumaca/" target="_blank" style="display:inline-block; padding:16px 40px; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#000000; text-decoration:none; letter-spacing:1px; text-transform:uppercase;">
+                    Garantir minha vaga no 5º vagão
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- AVISO -->
+        <tr>
+          <td align="center" style="padding:20px 24px 30px 24px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#888888; text-align:center;">
+            Evento apenas para maiores de 18 anos. Beba com responsabilidade.
+          </td>
+        </tr>
+
+        <!-- [ESPAÇO PARA IMAGEM/RODAPÉ MANUAL NO RD] -->
+
+      </table>
+    </td>
+  </tr>
+</table>
