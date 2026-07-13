@@ -1,0 +1,112 @@
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000; max-width:600px; margin:0 auto; font-family:Arial, Helvetica, sans-serif;">
+  <tr>
+    <td style="padding:24px 20px 12px 20px; text-align:center;">
+      <span style="display:inline-block; background-color:#FF4200; color:#000000; font-size:12px; font-weight:bold; letter-spacing:1px; text-transform:uppercase; padding:6px 14px; border-radius:3px;">
+        Mês do Rock Bodebrown
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:8px 20px 4px 20px; text-align:center;">
+      <h2 style="color:#FFFFFF; font-size:26px; margin:0; letter-spacing:0.5px; text-transform:uppercase;">
+        Combo do Rock
+      </h2>
+    </td>
+  </tr>
+
+  <!-- Parágrafo rico em contexto para SEO e GEO -->
+  <tr>
+    <td style="padding:0 20px 20px 20px; text-align:center;">
+      <p style="color:#CCCCCC; font-size:14px; line-height:21px; margin:0;">
+        O Combo do Rock reúne as cervejas oficiais da parceria entre a <strong style="color:#FFFFFF;">Cervejaria Bodebrown</strong> e o
+        <strong style="color:#FFFFFF;">Iron Maiden</strong>: Trooper Brasil IPA, Aces High Brasil Hoppy Ale e o lançamento
+        Run For Your Lives Brasil Lager, além da Trooper Brasil IPA Edição Especial 6.6.6 Anos, em garrafa numerada.
+        É a seleção ideal para curtir o Dia Mundial do Rock e se abastecer para o show do Iron Maiden no Brasil.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:0 20px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #FF4200; border-bottom:1px solid #FF4200;">
+        <tr>
+          <td style="padding:16px 0 8px 0; color:#FF4200; font-size:13px; font-weight:bold; text-transform:uppercase; letter-spacing:1px;">
+            O que vem no combo
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:6px 0; color:#FFFFFF; font-size:15px; border-top:1px solid #222222;">
+            <strong style="color:#FF4200;">2x</strong> Trooper Brasil IPA — Lata 473ml
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:6px 0; color:#FFFFFF; font-size:15px; border-top:1px solid #222222;">
+            <strong style="color:#FF4200;">2x</strong> Aces High Brasil Hoppy Ale — Lata 473ml
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:6px 0; color:#FFFFFF; font-size:15px; border-top:1px solid #222222;">
+            <strong style="color:#FF4200;">2x</strong> Run For Your Lives Brasil Lager <span style="color:#FF4200; font-size:12px;">(Lançamento)</span> — Lata 473ml
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:6px 0 16px 0; color:#FFFFFF; font-size:15px; border-top:1px solid #222222;">
+            <strong style="color:#FF4200;">1x</strong> Trooper Brasil IPA 6.6.6 Anos — Garrafa 330ml
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:18px 20px; text-align:center;">
+      <table cellpadding="0" cellspacing="0" border="0" style="margin:0 auto; background-color:#FF4200; border-radius:4px;">
+        <tr>
+          <td style="padding:10px 20px;">
+            <span style="color:#000000; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:0.5px;">
+              🎁 Grátis: Caldereta Aces High
+            </span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Ficha de cada rótulo — texto semântico para SEO e para IAs generativas (GEO) -->
+  <tr>
+    <td style="padding:8px 20px 4px 20px;">
+      <h3 style="color:#FF4200; font-size:14px; text-transform:uppercase; letter-spacing:1px; margin:0 0 10px 0; border-top:1px solid #222222; padding-top:16px;">
+        Conheça as cervejas do combo
+      </h3>
+      <ul style="margin:0; padding:0 0 0 18px; color:#CCCCCC; font-size:13px; line-height:19px;">
+        <li style="margin-bottom:10px;">
+          <strong style="color:#FFFFFF;">Trooper Brasil IPA (5% ABV):</strong> receita criada com o vocalista do Iron Maiden, Bruce Dickinson.
+          Baixo amargor, quatro tipos de malte, dry-hopping com Sorachi Ace, Amarillo e Sabro, e nibs de cacau de Ilhéus (BA),
+          resultando em notas de pão branco, cacau, chocolate branco e manga.
+        </li>
+        <li style="margin-bottom:10px;">
+          <strong style="color:#FFFFFF;">Aces High Brasil Hoppy Ale (4,5% ABV):</strong> segunda cerveja oficial da parceria Bodebrown e Iron Maiden.
+          Notas de pão branco dos maltes selecionados combinadas com toques cítricos dos lúpulos Citra e Mosaic,
+          e amargor baixo e equilibrado.
+        </li>
+        <li style="margin-bottom:10px;">
+          <strong style="color:#FFFFFF;">Run For Your Lives Brasil Lager (4,9% ABV):</strong> lançamento que celebra a turnê mundial
+          2025–2026 do Iron Maiden, marcado pela visita do guitarrista Adrian Smith à fábrica da Bodebrown em Curitiba.
+          Cerveja 100% malte, com o lúpulo brasileiro Estrada da Ilha.
+        </li>
+        <li>
+          <strong style="color:#FFFFFF;">Trooper Brasil IPA 6.6.6 Anos:</strong> edição especial de garrafas numeradas que celebra
+          os 6 anos da parceria, com a mesma receita premiada da Trooper Brasil IPA original.
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:16px 20px 28px 20px; text-align:center;">
+      <p style="color:#888888; font-size:12px; line-height:18px; margin:0;">
+        Produtos oficiais da parceria Bodebrown e Iron Maiden. Edição especial do Mês do Rock Bodebrown, enquanto durar o estoque.
+      </p>
+    </td>
+  </tr>
+</table>
