@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Belgian White Ale: a cerveja branca belga | Bodebrown</title>
+<style>
+  :root{
+    --bg:#000000;
+    --ink:#ffffff;
+    --accent:#ff4200;
+    --panel:#111111;
+    --muted:#8a8a8a;
+    --line:#242424;
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:Arial,Helvetica,sans-serif;
+    line-height:1.65;
+    font-size:17px;
+  }
+  .wrap{max-width:720px;margin:0 auto;padding:0 22px 80px;}
+  a{color:var(--accent);}
+
+  /* Bastidores boxes */
+  .backstage{
+    border:1px dashed #3a3a3a;
+    background:#0a0a0a;
+    border-radius:8px;
+    padding:18px 20px;
+    margin:26px 0;
+    font-size:13px;
+    line-height:1.6;
+    color:#cfcfcf;
+  }
+  .backstage .tag{
+    display:inline-block;
+    font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-weight:bold;
+    color:#000;background:var(--muted);
+    padding:3px 9px;border-radius:3px;margin-bottom:12px;
+  }
+  .backstage b{color:#fff;}
+  .backstage pre{
+    white-space:pre-wrap;word-break:break-word;
+    background:#000;border:1px solid var(--line);border-radius:6px;
+    padding:14px;margin:10px 0 0;overflow-x:auto;
+    font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+    font-size:12px;color:#d7d7d7;
+  }
+
+  /* Article */
+  .eyebrow{
+    color:var(--accent);
+    font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:bold;
+    margin:44px 0 14px;
+  }
+  h1.title{
+    font-size:40px;line-height:1.12;margin:0 0 8px;font-weight:800;letter-spacing:-.5px;
+  }
+  .lede-rule{width:60px;height:4px;background:var(--accent);border:0;margin:20px 0 30px;}
+
+  .tldr{
+    background:var(--panel);
+    border-left:4px solid var(--accent);
+    border-radius:0 8px 8px 0;
+    padding:22px 24px;
+    margin:0 0 36px;
+  }
+  .tldr h2{
+    margin:0 0 10px;color:var(--accent);
+    font-size:13px;letter-spacing:1.5px;text-transform:uppercase;
+  }
+  .tldr p{margin:0 0 12px;font-size:16px;color:#eaeaea;}
+  .tldr p:last-child{margin-bottom:0;}
+
+  h2.sec{
+    font-size:25px;line-height:1.2;margin:46px 0 4px;font-weight:800;letter-spacing:-.3px;
+  }
+  h2.sec::after{
+    content:"";display:block;width:34px;height:3px;background:var(--accent);margin:12px 0 18px;
+  }
+  p{margin:0 0 18px;}
+  .drop{color:var(--accent);font-weight:bold;}
+
+  /* Spec cards */
+  .spec{
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:6px 24px;margin:24px 0;
+  }
+  .spec .row{
+    display:flex;justify-content:space-between;gap:16px;
+    padding:13px 0;border-bottom:1px solid var(--line);
+  }
+  .spec .row:last-child{border-bottom:0;}
+  .spec .k{color:var(--muted);font-size:14px;text-transform:uppercase;letter-spacing:.5px;}
+  .spec .v{color:#fff;font-weight:bold;text-align:right;}
+
+  /* FAQ */
+  .faq{margin-top:10px;}
+  .faq .q{
+    color:#fff;font-weight:bold;font-size:18px;margin:24px 0 6px;
+  }
+  .faq .a{color:#dcdcdc;margin:0;}
+
+  /* CTA */
+  .cta-band{
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    padding:34px 28px;text-align:center;margin:46px 0 30px;
+  }
+  .cta-band h2{margin:0 0 10px;font-size:24px;font-weight:800;}
+  .cta-band p{margin:0 auto 22px;max-width:46ch;color:#dcdcdc;}
+  .btn{
+    display:inline-block;background:var(--accent);color:#000;
+    font-weight:bold;font-size:16px;text-decoration:none;
+    padding:15px 36px;border-radius:6px;letter-spacing:.3px;
+  }
+  .sig{color:var(--accent);font-weight:bold;letter-spacing:1px;font-size:20px;margin:18px 0 0;}
+
+  .sources{border-top:1px solid var(--line);margin-top:44px;padding-top:24px;}
+  .sources h2{font-size:14px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin:0 0 12px;}
+  .sources ul{margin:0;padding-left:18px;color:#bdbdbd;font-size:14px;line-height:1.9;}
+
+  .legal{color:var(--muted);font-size:12px;margin-top:30px;line-height:1.6;}
+
+  @media (max-width:520px){
+    body{font-size:16px;}
+    h1.title{font-size:31px;}
+    h2.sec{font-size:22px;}
+    .spec .row{flex-direction:column;gap:2px;}
+    .spec .v{text-align:left;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ================= BASTIDORES: SEO (NÃO PUBLICAR) ================= -->
+  <div class="backstage">
+    <span class="tag">Ficha de SEO &middot; não publicar</span>
+    <div><b>Title tag:</b> Belgian White Ale: a história de uma tradição resgatada | Bodebrown</div>
+    <div><b>Meta description:</b> Conheça a Belgian White Ale (Witbier): origem, características e a história de uma cerveja branca belga quase perdida no tempo e resgatada da memória. E conheça a Blanche de Curitiba.</div>
+    <div><b>Slug:</b> /belgian-white-ale-cerveja-branca-belga</div>
+    <div><b>Focus keyword:</b> Belgian White Ale</div>
+    <div><b>Secondary:</b> witbier o que é; cerveja branca belga; blanche de curitiba; diferença entre witbier e belgian white ale; cerveja de trigo belga</div>
+    <div><b>Alt-text imagens:</b> (1) Lata da cerveja Blanche de Curitiba, uma Belgian White Ale da Bodebrown &middot; (2) Taça de Belgian White Ale mostrando a coloração ouro levemente turva &middot; (3) Cerveja branca belga sendo servida, com espuma cremosa e branca</div>
+    <div><b>Link interno:</b> apontar para a página do produto Blanche de Curitiba e para os outros capítulos da série &ldquo;Estilos de Cerveja&rdquo;.</div>
+  </div>
+
+  <!-- ================= ARTIGO (PUBLICAR) ================= -->
+  <p class="eyebrow">Série Estilos de Cerveja &middot; Capítulo 02</p>
+  <h1 class="title">Belgian White Ale: a história de uma tradição resgatada</h1>
+  <hr class="lede-rule">
+
+  <div class="tldr">
+    <h2>Resumo rápido</h2>
+    <p>Belgian White Ale, que alguns conhecem como Witbier, é uma cerveja de trigo belga, pálida, turva e refrescante. Leva trigo não maltado, tem baixo amargor, alta carbonação e um final seco, com notas cítricas e condimentadas que vêm de coentro e casca de laranja. Fica em geral entre 4,5% e 5,5% de álcool.</p>
+    <p>É um dos estilos mais antigos da Bélgica &mdash; e um dos mais bonitos de contar. A Blanche quase se perdeu no tempo quando a última cervejaria que a produzia fechou, em 1957, e foi resgatada nos anos 1960 por um cervejeiro da região que reconstruiu a receita de memória. A Blanche de Curitiba é a versão da Bodebrown desse estilo: produzida desde 2012, feita com coentro e casca de laranja, refermentada na lata e premiada com ouro no Festival Brasileiro da Cerveja em 2013 e 2017.</p>
+  </div>
+
+  <p>Tem cerveja que a gente vende. E tem cerveja que a gente gosta de contar a história antes de vender. A Blanche de Curitiba é das segundas. Ela está entre as mais antigas da casa &mdash; a quarta cerveja que a Bodebrown botou no mundo, lá em 2012 &mdash; e carrega um estilo que quase ficou só na lembrança de quem provou. Quase, mas não ficou. O estilo dela é a Belgian White Ale, uma cerveja de trigo belga que tem gente que conhece por Witbier.</p>
+
+  <h2 class="sec">De onde vem a Blanche</h2>
+  <p>Ela nasceu na região de Leuven, na Bélgica, com raízes que chegam à Idade Média. Por séculos foi a Blanche típica daquela região, feita nas cervejarias locais. A receita clássica é trigo não maltado misturado a malte de cevada claro, temperada com coentro e casca de laranja seca. Baixo amargor, muita carbonação, final seco. Uma cerveja de verão, feita pra matar a sede.</p>
+
+  <h2 class="sec">A parte que faz valer conhecer o estilo</h2>
+  <p>Aqui está o motivo de a gente insistir que tomar uma Belgian White Ale é tomar um pedaço de história. No começo do século 20, a Blanche foi perdendo espaço pras lagers industriais. Uma a uma, as cervejarias que faziam o estilo fecharam. Em 1957, a última delas encerrou a produção, e a Blanche sumiu das prateleiras. Por quase dez anos, não havia uma única sendo feita &mdash; ela ficou só na lembrança de quem tinha provado.</p>
+  <p><span class="drop">Até que um resgate deu certo.</span> Nos anos 1960, um cervejeiro da região se recusou a deixar essa tradição desaparecer. Foi atrás da receita antiga, reconstruiu tudo praticamente de memória e trouxe a Blanche de volta ao mundo. Deu tão certo que o estilo voltou com força total, se espalhou pela Bélgica e depois pelo planeta. Toda Belgian White Ale que existe hoje, inclusive a nossa, é herança desse resgate.</p>
+
+  <h2 class="sec">Ficha técnica do estilo (BJCP)</h2>
+  <div class="spec">
+    <div class="row"><span class="k">Teor alcoólico (ABV)</span><span class="v">4,5% – 5,5%</span></div>
+    <div class="row"><span class="k">Amargor (IBU)</span><span class="v">8 – 20</span></div>
+    <div class="row"><span class="k">Cor (SRM)</span><span class="v">2 – 4</span></div>
+    <div class="row"><span class="k">Densidade inicial (OG)</span><span class="v">1.044 – 1.052</span></div>
+    <div class="row"><span class="k">Densidade final (FG)</span><span class="v">1.008 – 1.012</span></div>
+  </div>
+
+  <h2 class="sec">Perfil sensorial</h2>
+  <p>É uma cerveja pálida, do amarelo-palha ao dourado, e turva de propósito &mdash; a névoa vem do trigo e da levedura, não é defeito. A espuma é branca, densa e cremosa. No aroma e no sabor, você encontra pão branco e trigo, especiarias suaves e uma acidez cítrica que puxa pra laranja e limão. O amargor é baixo, e o final é seco e crocante. É leve de beber sem ser sem graça.</p>
+
+  <h2 class="sec">O currículo da Blanche de Curitiba</h2>
+  <p>A nossa versão nasceu inspirada na tradição belga das bière blanche e virou referência de Belgian White Ale no Brasil. Os números confirmam: são dois ouros no Festival Brasileiro da Cerveja, em 2013 e 2017. Ela é feita do jeito clássico, com <b>coentro e casca de laranja de verdade</b> &mdash; é daí que vêm as notas cítricas e condimentadas do aroma. E tem um diferencial de produção que a maioria das latas por aí não tem: ela é <b>refermentada dentro da própria lata</b>. É a levedura seguindo o trabalho lá dentro, do mesmo jeito que as belgas tradicionais são refermentadas na garrafa. É isso que dá a ela vida no copo e aquela espuma cremosa.</p>
+
+  <h2 class="sec">Ficha da cerveja</h2>
+  <div class="spec">
+    <div class="row"><span class="k">Estilo</span><span class="v">Belgian White Ale</span></div>
+    <div class="row"><span class="k">Teor alcoólico</span><span class="v">5,2%</span></div>
+    <div class="row"><span class="k">Formato</span><span class="v">Lata 470 mL</span></div>
+    <div class="row"><span class="k">Aroma</span><span class="v">pães brancos, levedura, especiarias e toques condimentados, com notas cítricas</span></div>
+    <div class="row"><span class="k">Cor</span><span class="v">ouro levemente turvo</span></div>
+    <div class="row"><span class="k">Amargor</span><span class="v">baixo</span></div>
+    <div class="row"><span class="k">Sabor</span><span class="v">muito refrescante; trigo lembrando pão branco e especiarias, equilíbrio entre acidez e doçura, com toques remetendo a aveia</span></div>
+  </div>
+
+  <h2 class="sec">Como servir e com o que harmonizar</h2>
+  <p>Sirva bem gelada, numa taça que ajude a levantar a espuma. Ela é uma companhia versátil à mesa: vai bem com aves, peixes, saladas e queijos (cabra, Gruyère, Gouda, Manchego e branco). Pra ir mais longe, experimente com moules et frites (mariscos com batata frita), legumes na brasa, champignon na mostarda e carne de onça. A leveza cítrica dela limpa o paladar e segura pratos gordurosos sem pesar.</p>
+
+  <h2 class="sec">Perguntas frequentes</h2>
+  <div class="faq">
+    <p class="q">O que é uma Belgian White Ale?</p>
+    <p class="a">É uma cerveja de trigo belga, pálida, turva e refrescante, com baixo amargor, alta carbonação e final seco. As notas cítricas e condimentadas vêm tradicionalmente de coentro e casca de laranja. Também é conhecida como Witbier ou blanche.</p>
+
+    <p class="q">Qual a diferença entre Witbier e Belgian White Ale?</p>
+    <p class="a">Na prática, nenhuma: são nomes diferentes para o mesmo estilo. &ldquo;Witbier&rdquo; é o termo flamengo, &ldquo;blanche&rdquo; é o francês e &ldquo;Belgian White Ale&rdquo; é o nome em inglês. O guia BJCP cataloga o estilo justamente como Witbier (categoria 24A).</p>
+
+    <p class="q">Qual o teor alcoólico de uma Belgian White Ale?</p>
+    <p class="a">O estilo costuma ficar entre 4,5% e 5,5% de álcool. A Blanche de Curitiba tem 5,2%, dentro dessa faixa clássica.</p>
+
+    <p class="q">Por que a Blanche é turva?</p>
+    <p class="a">Porque ela não é filtrada e leva bastante trigo. O amido do trigo e a levedura em suspensão deixam a cerveja com aquele aspecto leitoso e opaco. É característica do estilo, não um defeito.</p>
+
+    <p class="q">Belgian White Ale é uma cerveja de trigo?</p>
+    <p class="a">Sim. O trigo é o coração do estilo, tradicionalmente não maltado, combinado com malte de cevada claro. É o trigo que dá o corpo leve, a turbidez e o caráter refrescante.</p>
+
+    <p class="q">Com o que harmonizar uma Belgian White Ale?</p>
+    <p class="a">Ela vai bem com pratos leves e cítricos: aves, peixes, saladas e queijos como cabra, Gruyère e Gouda. Também combina com frutos do mar, legumes na brasa e pratos com mostarda.</p>
+  </div>
+
+  <div class="cta-band">
+    <h2>Prove um pedaço dessa história</h2>
+    <p>A Belgian White Ale quase ficou só na memória de quem a provou. Voltou por pura teimosia, e a gente trouxe essa tradição pra Curitiba do nosso jeito. Tomar uma Blanche de Curitiba é celebrar um resgate que valeu muito a pena.</p>
+    <a class="btn" href="https://loja.bodebrown.com.br/cerveja-blanche-de-curitiba-lata-473ml/">Peça a sua Blanche de Curitiba na loja</a>
+    <p class="sig">BeBold. GoCraft.</p>
+  </div>
+
+  <div class="sources">
+    <h2>Fontes consultadas</h2>
+    <ul>
+      <li>BJCP 2021 Beer Style Guidelines — 24A. Witbier (bjcp.org)</li>
+      <li>Brewers Association Beer Style Guidelines (brewersassociation.org)</li>
+      <li>Ficha oficial do produto — Blanche de Curitiba, loja Bodebrown</li>
+      <li>Registros históricos sobre a origem e o renascimento do estilo (referências cervejeiras especializadas)</li>
+    </ul>
+  </div>
+
+  <p class="legal">Aprecie com moderação. Proibida a venda e o consumo para menores de 18 anos. Se beber, não dirija.</p>
+
+  <!-- ================= BASTIDORES: JSON-LD (COLAR NO CMS) ================= -->
+  <div class="backstage">
+    <span class="tag">Dados estruturados JSON-LD &middot; colar no CMS</span>
+    <pre>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Belgian White Ale: a história de uma tradição resgatada",
+      "description": "Conheça a Belgian White Ale (Witbier): origem, características e a história de uma cerveja branca belga quase perdida no tempo e resgatada da memória. E conheça a Blanche de Curitiba.",
+      "author": { "@type": "Organization", "name": "Cervejaria Bodebrown" },
+      "publisher": { "@type": "Organization", "name": "Cervejaria Bodebrown" },
+      "about": "Belgian White Ale (Witbier)",
+      "articleSection": "Série Estilos de Cerveja"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "O que é uma Belgian White Ale?",
+          "acceptedAnswer": { "@type": "Answer", "text": "É uma cerveja de trigo belga, pálida, turva e refrescante, com baixo amargor, alta carbonação e final seco. As notas cítricas e condimentadas vêm tradicionalmente de coentro e casca de laranja. Também é conhecida como Witbier ou blanche." }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual a diferença entre Witbier e Belgian White Ale?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Na prática, nenhuma: são nomes diferentes para o mesmo estilo. \"Witbier\" é o termo flamengo, \"blanche\" é o francês e \"Belgian White Ale\" é o nome em inglês. O guia BJCP cataloga o estilo justamente como Witbier (categoria 24A)." }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual o teor alcoólico de uma Belgian White Ale?",
+          "acceptedAnswer": { "@type": "Answer", "text": "O estilo costuma ficar entre 4,5% e 5,5% de álcool. A Blanche de Curitiba tem 5,2%, dentro dessa faixa clássica." }
+        },
+        {
+          "@type": "Question",
+          "name": "Por que a Blanche é turva?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Porque ela não é filtrada e leva bastante trigo. O amido do trigo e a levedura em suspensão deixam a cerveja com aquele aspecto leitoso e opaco. É característica do estilo, não um defeito." }
+        },
+        {
+          "@type": "Question",
+          "name": "Belgian White Ale é uma cerveja de trigo?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Sim. O trigo é o coração do estilo, tradicionalmente não maltado, combinado com malte de cevada claro. É o trigo que dá o corpo leve, a turbidez e o caráter refrescante." }
+        },
+        {
+          "@type": "Question",
+          "name": "Com o que harmonizar uma Belgian White Ale?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ela vai bem com pratos leves e cítricos: aves, peixes, saladas e queijos como cabra, Gruyère e Gouda. Também combina com frutos do mar, legumes na brasa e pratos com mostarda." }
+        }
+      ]
+    }
+  ]
+}
+&lt;/script&gt;</pre>
+  </div>
+
+</div>
+</body>
+</html>
