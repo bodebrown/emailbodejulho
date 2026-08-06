@@ -1,0 +1,354 @@
+<!-- ============================================================
+     BLOCO 1 - ABERTURA / TITULO / PRECO
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:34px 24px 0 24px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;letter-spacing:4px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">
+            Dia dos Pais &middot; Domingo, 9 de agosto
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:16px 24px 0 24px;font-family:Arial,Helvetica,sans-serif;font-size:46px;line-height:48px;letter-spacing:1px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;">
+            Father <span style="color:#D9AE4A;">Foca</span> Day
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:16px 24px 0 24px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:24px;letter-spacing:1px;text-transform:uppercase;color:#F2D488;font-weight:bold;">
+            8 cervejas do Popeye<br>+ bon&eacute; do Brutus
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:22px 24px 0 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#1A1509" align="center" style="background-color:#1A1509;border:1px solid #D9AE4A;padding:16px 26px;font-family:Arial,Helvetica,sans-serif;">
+                  <div style="font-size:14px;line-height:20px;color:#B8B8B8;text-decoration:line-through;">De R$ 224,00</div>
+                  <div style="font-size:32px;line-height:38px;letter-spacing:1px;color:#FFFFFF;font-weight:bold;padding:4px 0;">Por R$ 199,90</div>
+                  <div style="font-size:14px;line-height:20px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">11% off</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:24px 24px 34px 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#D9AE4A" height="3" width="96" style="background-color:#D9AE4A;height:3px;line-height:3px;font-size:0;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 2 - ABERTURA / O PROBLEMA
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 32px;font-family:Arial,Helvetica,sans-serif;font-size:28px;line-height:36px;letter-spacing:1px;color:#FFFFFF;font-weight:bold;">
+            Pra voc&ecirc; que tem um Popeye em casa
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:20px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#DCDCDC;">
+            Voc&ecirc; sabe de quem a gente t&aacute; falando. Aquele que aparece com a chave inglesa antes de voc&ecirc; terminar de explicar o problema.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:14px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#DCDCDC;">
+            E que nunca pede nada. Por isso comprar presente pra ele &eacute; um perrengue todo ano.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:14px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#DCDCDC;">
+            Esse ano a gente resolve por voc&ecirc;: oito latas da cerveja oficial do Popeye e o bon&eacute; preto do Brutus, numa caixa s&oacute;.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:22px 32px 34px 32px;font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:26px;letter-spacing:1px;color:#D9AE4A;font-weight:bold;">
+            Forte como um bode at&eacute; o fim.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 3 - O QUE VEM NA CAIXA
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 6px 24px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;letter-spacing:4px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">
+            O que chega na casa dele
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 22px 24px;font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;letter-spacing:1px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;">
+            8 latas e 1 bon&eacute;
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#000000" style="background-color:#000000;padding:0 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;">
+
+              <tr>
+                <td bgcolor="#D9AE4A" width="4" style="background-color:#D9AE4A;width:4px;font-size:0;line-height:0;">&nbsp;</td>
+                <td bgcolor="#0A0A0A" style="background-color:#0A0A0A;border-top:1px solid #4A4A4A;border-right:1px solid #4A4A4A;border-bottom:1px solid #4A4A4A;padding:16px;font-family:Arial,Helvetica,sans-serif;">
+                  <span style="font-size:22px;line-height:26px;color:#D9AE4A;font-weight:bold;">8x&nbsp;&nbsp;</span><span style="font-size:16px;line-height:26px;color:#FFFFFF;font-weight:bold;">Popeye Progressive Spinach Lager</span><br>
+                  <span style="font-size:13px;line-height:20px;color:#B8B8B8;">German Pilsner &middot; Puro malte &middot; 5% &middot; Lata 473 mL</span>
+                </td>
+              </tr>
+              <tr><td colspan="2" height="8" style="height:8px;line-height:8px;font-size:0;">&nbsp;</td></tr>
+
+              <tr>
+                <td bgcolor="#D9AE4A" width="4" style="background-color:#D9AE4A;width:4px;font-size:0;line-height:0;">&nbsp;</td>
+                <td bgcolor="#1A1509" style="background-color:#1A1509;border-top:1px solid #D9AE4A;border-right:1px solid #D9AE4A;border-bottom:1px solid #D9AE4A;padding:16px;font-family:Arial,Helvetica,sans-serif;">
+                  <span style="font-size:22px;line-height:26px;color:#D9AE4A;font-weight:bold;">1x&nbsp;&nbsp;</span><span style="font-size:16px;line-height:26px;color:#FFFFFF;font-weight:bold;">Bon&eacute; Popeye Brutus</span><br>
+                  <span style="font-size:13px;line-height:20px;color:#F2D488;">Preto &middot; Linha oficial Popeye</span>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:18px 32px 34px 32px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#DCDCDC;">
+            Os r&oacute;tulos v&atilde;o sortidos e cada lata traz uma cena diferente do Popeye. Quem gosta de guardar lata vai gostar dessa parte.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 4 - CTA
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 34px 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#D9AE4A" align="center" style="background-color:#D9AE4A;padding:0;">
+                  <a href="https://loja.bodebrown.com.br/kit-dia-dos-pais-com-popeye/" target="_blank" style="display:block;padding:18px 44px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:20px;letter-spacing:2px;text-transform:uppercase;color:#000000;font-weight:bold;text-decoration:none;">
+                    Pegar o combo
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 5 - A CERVEJA
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 6px 24px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;letter-spacing:4px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">
+            Produto Oficial Popeye&reg;
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 20px 24px;font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;letter-spacing:1px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;">
+            A cerveja do marinheiro
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 32px 14px 32px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#DCDCDC;">
+            German Pilsner puro malte, 5%. Dois maltes, dois l&uacute;pulos alem&atilde;es em doses progressivas e levedura de baixa fermenta&ccedil;&atilde;o com DNA b&aacute;varo. Nada de cereal n&atilde;o maltado, nada de aditivo.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 32px 22px 32px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#DCDCDC;">
+            Ouro claro na ta&ccedil;a, aroma de p&atilde;o e cereal, amargor baixo. &Eacute; aquela cerveja que combina com qualquer coisa que estiver na mesa, do petisco frito ao churrasco.
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#000000" style="background-color:#000000;padding:0 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#0A0A0A" width="50%" valign="top" style="background-color:#0A0A0A;border:1px solid #4A4A4A;padding:16px;font-family:Arial,Helvetica,sans-serif;width:50%;">
+                  <div style="font-size:12px;line-height:18px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;padding:0 0 6px 0;">Aroma</div>
+                  <div style="font-size:14px;line-height:22px;color:#DCDCDC;">P&atilde;es brancos e cereais, notas florais e herbais, leves nuances c&iacute;tricos</div>
+                </td>
+                <td width="8" style="width:8px;font-size:0;line-height:0;">&nbsp;</td>
+                <td bgcolor="#0A0A0A" width="50%" valign="top" style="background-color:#0A0A0A;border:1px solid #4A4A4A;padding:16px;font-family:Arial,Helvetica,sans-serif;width:50%;">
+                  <div style="font-size:12px;line-height:18px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;padding:0 0 6px 0;">Sabor</div>
+                  <div style="font-size:14px;line-height:22px;color:#DCDCDC;">Maltes suaves, l&uacute;pulos germ&acirc;nicos com notas herbais, p&atilde;es brancos</div>
+                </td>
+              </tr>
+              <tr><td colspan="3" height="8" style="height:8px;line-height:8px;font-size:0;">&nbsp;</td></tr>
+              <tr>
+                <td bgcolor="#0A0A0A" width="50%" valign="top" style="background-color:#0A0A0A;border:1px solid #4A4A4A;padding:16px;font-family:Arial,Helvetica,sans-serif;width:50%;">
+                  <div style="font-size:12px;line-height:18px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;padding:0 0 6px 0;">Colora&ccedil;&atilde;o</div>
+                  <div style="font-size:14px;line-height:22px;color:#DCDCDC;">Ouro claro</div>
+                </td>
+                <td width="8" style="width:8px;font-size:0;line-height:0;">&nbsp;</td>
+                <td bgcolor="#0A0A0A" width="50%" valign="top" style="background-color:#0A0A0A;border:1px solid #4A4A4A;padding:16px;font-family:Arial,Helvetica,sans-serif;width:50%;">
+                  <div style="font-size:12px;line-height:18px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;padding:0 0 6px 0;">Amargor</div>
+                  <div style="font-size:14px;line-height:22px;color:#DCDCDC;">Leve &middot; Servir entre 4 &deg;C e 7 &deg;C</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:34px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 6 - O BONE
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" style="background-color:#000000;padding:0 24px 34px 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#1A1509" align="center" style="background-color:#1A1509;border:1px solid #D9AE4A;padding:26px 24px;font-family:Arial,Helvetica,sans-serif;">
+                  <div style="font-size:12px;line-height:18px;letter-spacing:4px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">Vem junto na caixa</div>
+                  <div style="font-size:26px;line-height:32px;letter-spacing:1px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;padding:8px 0 12px 0;">Bon&eacute; do Brutus</div>
+                  <div style="font-size:15px;line-height:24px;color:#DCDCDC;">Preto, da linha oficial Popeye. Pai que diz n&atilde;o precisar de presente costuma abrir exce&ccedil;&atilde;o quando o presente &eacute; bon&eacute;.</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 7 - ENTREGA
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 6px 24px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;letter-spacing:4px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">
+            D&aacute; tempo
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 20px 24px;font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;letter-spacing:1px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;">
+            Entregamos no Brasil inteiro
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" style="background-color:#000000;padding:0 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#0A0A0A" style="background-color:#0A0A0A;border:1px solid #4A4A4A;padding:20px;font-family:Arial,Helvetica,sans-serif;">
+                  <div style="font-size:13px;line-height:20px;letter-spacing:3px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;padding:0 0 12px 0;">Mora em Curitiba?</div>
+                  <div style="font-size:15px;line-height:24px;color:#DCDCDC;">Nosso delivery roda de <span style="color:#FFFFFF;font-weight:bold;">segunda a s&aacute;bado</span>.</div>
+                  <div style="font-size:15px;line-height:24px;color:#DCDCDC;padding:10px 0 0 0;">Pediu at&eacute; as <span style="color:#F2D488;font-weight:bold;">16h</span> de segunda a sexta, chega no mesmo dia.</div>
+                  <div style="font-size:15px;line-height:24px;color:#DCDCDC;padding:4px 0 0 0;">No s&aacute;bado, o corte &eacute; <span style="color:#F2D488;font-weight:bold;">13h</span>.</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:16px 32px 34px 32px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#DCDCDC;">
+            Fora de Curitiba a gente envia pra todo o Brasil. S&oacute; n&atilde;o deixa pra sexta.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================
+     BLOCO 8 - CTA FINAL + ASSINATURA + LEGAL
+     ============================================================ -->
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" style="border-collapse:collapse;background-color:#000000;">
+  <tr>
+    <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0;">
+      <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;max-width:600px;border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 32px 14px 32px;font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:28px;color:#FFFFFF;font-weight:bold;">
+            Domingo &eacute; dia 9.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 18px 24px;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:26px;color:#DCDCDC;">
+            De R$ 224,00 por <span style="color:#D9AE4A;font-weight:bold;">R$ 199,90</span>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 30px 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#D9AE4A" align="center" style="background-color:#D9AE4A;padding:0;">
+                  <a href="https://loja.bodebrown.com.br/kit-dia-dos-pais-com-popeye/" target="_blank" style="display:block;padding:18px 44px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:20px;letter-spacing:2px;text-transform:uppercase;color:#000000;font-weight:bold;text-decoration:none;">
+                    Resolver o presente agora
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 20px 24px;">
+            <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+              <tr>
+                <td bgcolor="#D9AE4A" height="3" width="96" style="background-color:#D9AE4A;height:3px;line-height:3px;font-size:0;">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 4px 24px;font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:28px;letter-spacing:2px;text-transform:uppercase;color:#D9AE4A;font-weight:bold;">
+            Father Foca Day
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 24px 26px 24px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:24px;letter-spacing:5px;text-transform:uppercase;color:#FFFFFF;font-weight:bold;">
+            Be Bold. Go Craft.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#000000" align="center" style="background-color:#000000;padding:0 32px 34px 32px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:20px;color:#8F8F8F;">
+            Imagens ilustrativas. Cont&eacute;m gl&uacute;ten. Produzida e envasada pela Cervejaria Bodebrown Ltda. POPEYE&reg; &eacute; marca registrada de seus respectivos titulares. Produto licenciado. Aprecie com modera&ccedil;&atilde;o. Proibida a venda e o consumo para menores de 18 anos. Se beber, n&atilde;o dirija.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
