@@ -1,0 +1,219 @@
+<!-- =================================================================
+     BLOCO 0 - PREHEADER (cole no topo, antes de tudo)
+     ================================================================= -->
+<div style="display:none;font-size:1px;color:#0a0a0a;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Curitiba: compre at&eacute; amanh&atilde;, 13h, e receba ainda no s&aacute;bado. Entregamos para todo o Brasil.&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+
+
+<!-- =================================================================
+     BLOCO 1 - TARJA DE ESTILO
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:32px 24px 0 24px;">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#ff4200" align="center" style="background-color:#ff4200;padding:9px 20px;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:bold;letter-spacing:2px;color:#0a0a0a;text-transform:uppercase;">
+            Russian Imperial Stout com Lactose
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 2 - TITULO
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:22px 24px 6px 24px;font-family:Arial,Helvetica,sans-serif;font-size:44px;line-height:46px;font-weight:bold;color:#ffffff;letter-spacing:-1px;text-transform:uppercase;">
+      Mama Milk
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 18px 24px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:20px;font-weight:bold;color:#c9713f;letter-spacing:2px;text-transform:uppercase;">
+      Mill&eacute;sime 2026
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 28px 24px;line-height:1px;font-size:1px;">
+      <table role="presentation" width="120" cellpadding="0" cellspacing="0" border="0" align="center" style="width:120px;border-collapse:collapse;">
+        <tr><td bgcolor="#ff4200" height="3" style="background-color:#ff4200;height:3px;line-height:3px;font-size:1px;">&nbsp;</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 3 - TEXTO PRINCIPAL
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 18px 34px;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:27px;color:#e8ded4;">
+      A tradi&ccedil;&atilde;o continua: Dia dos Pais com Bodebrown Mama Milk!
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 26px 34px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#d8cec4;">
+      Nossa Imperial Stout com Lactose, a primeira Milk Stout com lactose feita no Brasil, quando ainda se chamava Venenosa.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 12px 34px;font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:28px;font-weight:bold;color:#ff4200;">
+      Mas por que lactose?
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 24px 34px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#d8cec4;">
+      Esse &eacute; o a&ccedil;&uacute;car do leite, e n&atilde;o fermenta como o a&ccedil;&uacute;car gerado pelo malte: n&atilde;o vira &aacute;lcool, n&atilde;o some, fica na cerveja dando corpo e um dul&ccedil;or que amacia a torra. Uma cerveja preta de 70 IBUs que podia sair seca e queimada chega <strong style="color:#ffffff;">aveludada e cremosa</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 26px 34px;font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;font-weight:bold;color:#ff4200;">
+      Simplesmente phod&aacute;stica!
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="left" style="background-color:#0a0a0a;padding:0 34px 30px 34px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#d8cec4;">
+      A <strong style="color:#ffffff;">safra 2026</strong> j&aacute; est&aacute; na nossa Loja da F&aacute;brica e no site da Bodebrown.
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 4 - BOTAO PRINCIPAL
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 14px 24px;">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#ff4200" align="center" style="background-color:#ff4200;padding:17px 44px;">
+            <a href="https://loja.bodebrown.com.br/cerveja-bodebrown-lata-mama-milk-473ml/" target="_blank" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;color:#0a0a0a;text-decoration:none;letter-spacing:2px;text-transform:uppercase;display:block;">
+              Comprar a Mama Milk
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 34px 34px 34px;font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;color:#a08a7a;">
+      Entregamos para todo o Brasil.
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 5 - PRAZO CURITIBA (laranja)
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 34px 24px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ff4200" style="width:100%;border-collapse:collapse;background-color:#ff4200;">
+        <tr>
+          <td bgcolor="#ff4200" align="center" style="background-color:#ff4200;padding:24px 28px 6px 28px;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold;letter-spacing:3px;color:#4a1400;text-transform:uppercase;">
+            Curitiba
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ff4200" align="center" style="background-color:#ff4200;padding:0 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;font-weight:bold;color:#0a0a0a;text-transform:uppercase;">
+            At&eacute; amanh&atilde;, 13h
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ff4200" align="center" style="background-color:#ff4200;padding:0 28px 24px 28px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:23px;color:#3d1000;">
+            Pedidos at&eacute; as 13h de s&aacute;bado saem para entrega no mesmo dia. D&aacute; tempo para o domingo.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 6 - FICHA TECNICA
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 10px 24px;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:bold;letter-spacing:3px;color:#c9713f;text-transform:uppercase;">
+      Ficha
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 34px 24px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0a0a0a" style="width:100%;border-collapse:collapse;background-color:#0a0a0a;">
+        <tr>
+          <td bgcolor="#141010" align="center" width="25%" style="background-color:#141010;border-top:3px solid #ff4200;padding:16px 6px;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#ff4200;line-height:26px;">
+            11,1%<br><span style="font-size:10px;font-weight:normal;letter-spacing:1px;color:#a08a7a;text-transform:uppercase;">&Aacute;lcool</span>
+          </td>
+          <td bgcolor="#0a0a0a" width="8" style="background-color:#0a0a0a;font-size:1px;line-height:1px;">&nbsp;</td>
+          <td bgcolor="#141010" align="center" width="25%" style="background-color:#141010;border-top:3px solid #ff4200;padding:16px 6px;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#ff4200;line-height:26px;">
+            70<br><span style="font-size:10px;font-weight:normal;letter-spacing:1px;color:#a08a7a;text-transform:uppercase;">IBUs</span>
+          </td>
+          <td bgcolor="#0a0a0a" width="8" style="background-color:#0a0a0a;font-size:1px;line-height:1px;">&nbsp;</td>
+          <td bgcolor="#141010" align="center" width="25%" style="background-color:#141010;border-top:3px solid #ff4200;padding:16px 6px;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#ff4200;line-height:26px;">
+            470<br><span style="font-size:10px;font-weight:normal;letter-spacing:1px;color:#a08a7a;text-transform:uppercase;">ml &middot; lata</span>
+          </td>
+          <td bgcolor="#0a0a0a" width="8" style="background-color:#0a0a0a;font-size:1px;line-height:1px;">&nbsp;</td>
+          <td bgcolor="#141010" align="center" width="25%" style="background-color:#141010;border-top:3px solid #ff4200;padding:16px 6px;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#ff4200;line-height:26px;">
+            2026<br><span style="font-size:10px;font-weight:normal;letter-spacing:1px;color:#a08a7a;text-transform:uppercase;">Mill&eacute;sime</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 7 - BOTAO SECUNDARIO + ASSINATURA
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 30px 24px;">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
+        <tr>
+          <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;border:2px solid #ff4200;padding:15px 40px;">
+            <a href="https://loja.bodebrown.com.br/cerveja-bodebrown-lata-mama-milk-473ml/" target="_blank" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#ff4200;text-decoration:none;letter-spacing:2px;text-transform:uppercase;display:block;">
+              Ver na loja
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 8px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:22px;font-weight:bold;color:#ff4200;letter-spacing:3px;text-transform:uppercase;">
+      Be Bold. Go Craft.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 30px 24px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#7a6a5e;letter-spacing:1px;text-transform:uppercase;">
+      Cervejaria Bodebrown &middot; Curitiba
+    </td>
+  </tr>
+</table>
+
+
+<!-- =================================================================
+     BLOCO 8 - AVISO LEGAL
+     ================================================================= -->
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#0a0a0a" style="width:600px;max-width:600px;border-collapse:collapse;background-color:#0a0a0a;">
+  <tr>
+    <td bgcolor="#0a0a0a" align="center" style="background-color:#0a0a0a;padding:0 24px 34px 24px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#141010" style="width:100%;border-collapse:collapse;background-color:#141010;">
+        <tr>
+          <td bgcolor="#141010" align="center" style="background-color:#141010;border:1px solid #4a2a18;padding:16px 20px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:18px;color:#a08a7a;letter-spacing:1px;text-transform:uppercase;">
+            Aprecie com modera&ccedil;&atilde;o. Proibida a venda e o consumo para menores de 18 anos. Se beber, n&atilde;o dirija.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
